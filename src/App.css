@@ -1,0 +1,23 @@
+h1{
+  font-weight: 900;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.kg-row{
+  margin: 20px;
+}
+.container{
+  text-align:left;
+}
+input{
+  width: 100%;
+}
+.btn{
+  width: 80px;
+}
+.welcome{
+  font-size: large;
+  font-weight: 700;
+}
